@@ -1,0 +1,8 @@
+x = input("Podaj jakąś liczbę \n")
+print ("Typ Twojej zmiennej to ")
+print(type(x))
+print (x * 2)
+x = int(x)
+print ("Teraz typ Twojej zmiennej to  ")
+print(type(x))
+print (x * 2) 
